@@ -3,11 +3,11 @@
 ## install
 php version >= 7.0
 ```bash
-$ composer require multilinguals/apollo-client
+$ composer require yanghahaha/apollo-client
 ```
 php version >= 5.4 , <7.0
 ```bash
-$ composer require multilinguals/apollo-client --ignore-platform-reqs
+$ composer require yanghahaha/apollo-client --ignore-platform-reqs
 ```
 
 ## Features
